@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Description 1",
+      "price": 10,
+      "image": "/img/Asus.jfif"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Description 2",
+      "price": 20,
+      "image": "/img/MSI.jfif"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Description 3",
+      "price": 15,
+      "image": "/img/Dell.jfif"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "description": "Description 4",
+      "price": 25,
+      "image": "/img/HP.jfif"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "description": "Description 5",
+      "price": 25,
+      "image": "/img/cx.jfif"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "description": "Description 6",
+      "price": 25,
+      "image": "/img/descarga.jfif"
+    }
+  ]
+  
